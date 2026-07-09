@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sagard-dev&label=Profile%20views&color=0e75b6&style=flat" alt="sagard-dev" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sagard-dev" alt="sagard-dev" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/sagar_ai_dev" target="blank"><img src="https://img.shields.io/twitter/follow/sagar_ai_dev?logo=twitter&style=for-the-badge" alt="sagar_ai_dev" /></a> </p>
 
 - 👯 I’m looking to collaborate on **Full Stack MERN and AI-powered Web Applications**
