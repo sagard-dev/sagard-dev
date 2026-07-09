@@ -1,21 +1,68 @@
-# 💫 About Me:
-🚀 Passionate Full Stack Developer who loves building modern web applications and AI-powered solutions.<br>💻 Experienced in MERN stack development, creating scalable applications with clean and efficient code.<br>🤖 Exploring AI integrations, LLM-powered applications, and ways to build smarter user experiences.<br>🌱 Driven by curiosity, continuous learning, and the passion to turn ideas into impactful products.
+<div align="center">
 
+# 👋 Hi, I'm Sagar
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sagar-d-925aa1292/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Sagar_ai_dev) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sagard.sy@gmail.com) 
-
-# 💻 Tech Stack:
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Context-API](https://img.shields.io/badge/Context--Api-000000?style=for-the-badge&logo=react) ![EJS](https://img.shields.io/badge/ejs-%23B4CA65.svg?style=for-the-badge&logo=ejs&logoColor=black) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=sagard-dev&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=sagard-dev&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=sagard-dev&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+🚀 Passionate Full Stack Developer who loves building modern web applications and AI-powered solutions.  
+💻 Experienced in MERN stack development, creating scalable applications with clean and efficient code.  
+🤖 Exploring AI integrations, LLM-powered applications, and smarter user experiences.  
+🌱 Driven by curiosity, continuous learning, and the passion to turn ideas into impactful products.
 
 ---
-[![](https://komarev.com/ghpvc/?username=sagard-dev&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 📄 Resume
+
+<a href="https://drive.google.com/file/d/1XhIEu31f53T9tqtdlVNlPRBArmSUJuBZ/view?usp=sharing">
+<img src="https://img.shields.io/badge/View%20Resume-Click%20Here-blue?style=for-the-badge&logo=googledrive" />
+</a>
+
+---
+
+## 🌐 Connect With Me
+
+<a href="https://linkedin.com/in/sagar-d-925aa1292/">
+<img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://x.com/Sagar_ai_dev">
+<img src="https://img.shields.io/badge/X-black.svg?style=for-the-badge&logo=X&logoColor=white"/>
+</a>
+
+<a href="mailto:sagard.sy@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+---
+
+## 💻 Tech Stack
+
+<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,nodejs,express,mongodb,redux,java,git,github,postman,vercel,nginx" />
+
+<br/>
+
+---
+
+## 📊 GitHub Stats
+
+<img src="https://github-readme-stats.vercel.app/api?username=sagard-dev&theme=dark&hide_border=false&include_all_commits=true&count_private=true" />
+
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=sagard-dev&theme=dark&hide_border=false" />
+
+<br/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sagard-dev&theme=dark&hide_border=false&layout=compact" />
+
+---
+
+## ✍️ Random Dev Quote
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"/>
+
+---
+
+## 👀 Profile Views
+
+<img src="https://komarev.com/ghpvc/?username=sagard-dev&label=Profile%20Views&color=0e75b6&style=flat" />
+
+</div>
