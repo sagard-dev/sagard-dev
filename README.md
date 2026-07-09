@@ -42,7 +42,11 @@
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,java,react,redux,tailwind,nodejs,express,mongodb,npm,bootstrap,vercel,postman,nginx,git,github"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,java,react,redux,tailwind,nodejs,express,mongodb&perline=10"/>
+
+<br>
+
+<img src="https://skillicons.dev/icons?i=npm,bootstrap,vercel,postman,nginx,git,github&perline=7"/>
 
 </p>
 
@@ -51,7 +55,6 @@
 # 📊 GitHub Stats
 
 <p align="center">
-
 
 
 </p>
