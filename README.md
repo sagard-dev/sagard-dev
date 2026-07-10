@@ -10,6 +10,18 @@
 
 ---
 
+## 💼 Current Status
+
+<p align="center">
+  <img src="https://img.shields.io/badge/💼%20Open%20to%20Work-success?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/🎯%20Seeking-Software%20Engineering%20Internships-orange?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/🚀%20Role-Full%20Stack%20Developer-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/🤖%20Aspiring-Generative%20AI%20Engineer-purple?style=for-the-badge" />
+</p>
+
+
+---
+
 # 📄 Resume
 
 <p align="center">
