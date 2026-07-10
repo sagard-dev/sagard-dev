@@ -1,12 +1,12 @@
 # 💫 About Me
 
-🚀 Passionate Full Stack Developer who loves building modern web applications and AI-powered solutions.
+🚀 Passionate Full Stack Developer building modern web applications and exploring the future of Generative AI.
 
-💻 Experienced in MERN stack development, creating scalable applications with clean and efficient code.
+💻 Experienced in MERN stack development, creating scalable, high-performance applications with clean and maintainable code.
 
-🤖 Exploring AI integrations, LLM-powered applications, and ways to build smarter user experiences.
+🤖 Aspiring Generative AI Engineer, building AI-powered applications and continuously learning modern AI technologies.
 
-🌱 Driven by curiosity, continuous learning, and turning ideas into impactful products.
+🌱 Driven by curiosity, continuous learning, and a passion for turning ideas into impactful products.
 
 ---
 
