@@ -13,7 +13,7 @@
 # 📄 Resume
 
 <p align="center">
-  <a href="https://drive.google.com/file/d/1XhIEu31f53T9tqtdlVNlPRBArmSUJuBZ/view?usp=sharing">
+  <a href="https://drive.google.com/file/d/142QE9Fp_0vmLN6jM9WmQStHm5qT85m28/view?usp=sharing">
     <img src="https://img.shields.io/badge/View%20Resume-Click%20Here-blue?style=for-the-badge" />
   </a>
 </p>
